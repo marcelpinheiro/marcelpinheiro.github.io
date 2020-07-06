@@ -8,6 +8,10 @@ Welcome to my portfolio page! Here i will put some of my own projects. Hope you 
 
 ### [Linear Regression - House prices](https://github.com/marcelpinheiro/malum/blob/master/AmesHousing/HousePrices.ipynb)
 
+## Tools/Ferramentas
+
+### [Avro](https://github.com/marcelpinheiro/malum/blob/master/avro.ipynb)
+
 ### Contato
 marcelpinheiro@gmail.com <br>
 [http://malum.com.br/wp/en](http://malum.com.br/wp/en) (Inglês) <br>
