@@ -4,34 +4,12 @@ Bem vindo à minha página de portfolio! Aqui eu irei colocar alguns projetos de
 
 Welcome to my portfolio page! Here i will put some of my own projects. Hope you enjoy it!
 
-### Markdown
+### [Linear Regression - House prices](https://github.com/marcelpinheiro/malum/blob/master/AmesHousing/HousePrices.ipynb)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+marcelpinheiro@gmail.com
+[http://malum.com.br/wp/en](http://malum.com.br/wp/en)
+[http://www.malum.com.br](http://www.malum.com.br)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marcelpinheiro/marcelpinheiro.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
