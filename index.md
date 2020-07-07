@@ -23,6 +23,6 @@ Welcome to my portfolio page! Here i will put some of my own projects. Hope you 
 ## Contato
 
 > E-mail:     marcelpinheiro@gmail.com <br>
-> Linkedin:   https://www.linkedin.com/in/marcelpinheiro/ <br>
+> Linkedin:   [https://www.linkedin.com/in/marcelpinheiro/](https://www.linkedin.com/in/marcelpinheiro/) <br>
 > Blog (PT):  [http://www.malum.com.br](http://www.malum.com.br) <br>
 > Blog (EN):  [http://malum.com.br/wp/en](http://malum.com.br/wp/en) 
