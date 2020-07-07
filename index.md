@@ -20,11 +20,6 @@ Welcome to my portfolio page! Here i will put some of my own projects. Hope you 
 |[Spark/Pyspark](https://github.com/marcelpinheiro/malum/blob/master/pyspark/pyspark_example.ipynb)| **PT:** Carregando dois arquivos CSV para RDDs do spark e realizando uma consulta unindo os dois datasets.<br> **EN:** Loading two CSV files into spark RDDs and creating a query joining the two datasets. <br> **Techs:** Pyspark, Matplotlib|
 
 
-
-
-
-
-
 ## Contato
 
 > E-mail:     marcelpinheiro@gmail.com <br>
