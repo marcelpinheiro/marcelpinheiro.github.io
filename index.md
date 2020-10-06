@@ -18,6 +18,7 @@ Welcome to my portfolio page! Here i will put some of my own projects. Hope you 
 |----------------|---------------------|
 |[Avro](https://github.com/marcelpinheiro/malum/blob/master/avro.ipynb)|**PT:** Usando o Avro para serializar/desserializar, eu receberei todos os episódios de Game Of Thrones e criarei um esquema para garantir que apenas os dados com o formato que eu quero sejam carregados.<br>**EN:** Using Avro to serialize/deserialize, i will get all the episodes of Game Of Thrones and will create a schema to guarantee that only data with the format that i want be load.<br>**Techs:** Avro, Pandas|
 |[Spark/Pyspark](https://github.com/marcelpinheiro/malum/blob/master/pyspark/pyspark_example.ipynb)| **PT:** Carregando dois arquivos CSV para RDDs do spark e realizando uma consulta unindo os dois datasets.<br> **EN:** Loading two CSV files into spark RDDs and creating a query joining the two datasets. <br> **Techs:** Pyspark, Matplotlib|
+|[SQLAlchemy](https://github.com/marcelpinheiro/pagila)| **PT:** Realizando um simples ETL copiando dados de uma base de dados Postgre para MySQL utilizando AWS RDS <br> **EN:** Simple ETL copying data from a Postgre to MySQL database using AWS RDS. <br> **Techs:** SQLAlchemy, AWS RDS|
 
 
 ## Contato
